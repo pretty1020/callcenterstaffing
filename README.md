@@ -3,3 +3,5 @@ This application will calculate the required staff, occupancy, service level and
 Erlang and rhandsontable are being used in this application.
 This is very helpful in creating scenario with different service level goal metric in call center.
 
+visit the app here: https://ds1projapailden.shinyapps.io/Intervalstaffing/
+
